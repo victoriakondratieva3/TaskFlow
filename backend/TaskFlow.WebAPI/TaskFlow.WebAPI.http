@@ -1,0 +1,6 @@
+@TaskFlow.WebAPI_HostAddress = http://localhost:5127
+
+GET {{TaskFlow.WebAPI_HostAddress}}
+Accept: application/json
+
+###
